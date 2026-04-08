@@ -17,7 +17,7 @@ It provides an interactive dashboard to monitor fraudulent activities across dif
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard Preview](dashboard-preview.png)
+![Dashboard Preview](dashboard_preview.png)
 
 ---
 
